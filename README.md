@@ -2,6 +2,12 @@
 
 [![](http://img.youtube.com/vi/vcjLgSbgT18/0.jpg)](http://www.youtube.com/watch?v=vcjLgSbgT18 "")
 
+## Hardware
+### M5Stack Fire
+[https://m5stack.com/products/fire-iot-development-kit](https://m5stack.com/products/fire-iot-development-kit)
+![](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/4_70cfd3b4-c28f-4bc2-8add-8b199ccd23cf_1200x1200.jpg?v=1589762088)
+
+
 ## Method 1. Accelerometer (3axis) + Digital Compass (3axis)
 
 ax, ay, az: Acceleration to x, y, z axis
