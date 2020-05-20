@@ -7,6 +7,8 @@ ax, ay, az: Acceleration to x, y, z axis
 
 dx, dy, dz: x, y, z value of magnetic vector
 
+Sp: sin(p) , Cp: cos(p)
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\rm{Roll}&space;=&space;\arctan\left(&space;\dfrac{a_y}{a_z}\right)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rm{Roll}&space;=&space;\arctan\left(&space;\dfrac{a_y}{a_z}\right)" title="\rm{Roll} = \arctan\left( \dfrac{a_y}{a_z}\right)" /></a>
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\rm{Pitch}&space;=&space;\arctan&space;\left(&space;\dfrac{-a_x}{\sqrt{a_y^2&plus;a_z^2}}\right)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rm{Pitch}&space;=&space;\arctan&space;\left(&space;\dfrac{-a_x}{\sqrt{a_y^2&plus;a_z^2}}\right)" title="\rm{Pitch} = \arctan \left( \dfrac{-a_x}{\sqrt{a_y^2+a_z^2}}\right)" /></a>
