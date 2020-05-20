@@ -1,5 +1,6 @@
 # Attitude Estimation
 
+[![](http://img.youtube.com/vi/vcjLgSbgT18/0.jpg)](http://www.youtube.com/watch?v=vcjLgSbgT18 "")
 
 ## Method 1. Accelerometer (3axis) + Digital Compass (3axis)
 
